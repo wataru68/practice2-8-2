@@ -3,3 +3,38 @@
   padding: 0;
   box-sizing: border-box;
 }
+.header {
+  height: 400px;
+  width: 100%;
+  background-image: url(img/mv.jpg);
+  background-size: cover;
+  background-position: bottom;
+  margin-bottom: 50px;
+}
+.header-top {
+  padding: 20px;
+}
+.chapters {
+  justify-content: center;
+}
+.chapter-1 {
+  width: 840px;
+  border-bottom: 1px solid black;
+  padding-bottom: 30px;
+}
+.chapter-2 {
+  width: 840px;
+  border-bottom: 1px solid black;
+  padding: 30px 0px;
+}
+.chapter-3 {
+  width: 840px;
+  border-bottom: 1px solid black;
+  padding: 30px 0px;
+}
+.chapter-4 {
+  width: 840px;
+  border-bottom: 1px solid black;
+  padding: 30px 0px;
+  margin-bottom: 50px;
+}
